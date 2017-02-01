@@ -1,0 +1,13 @@
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\SampleApp.deps.json
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\SampleApp.runtimeconfig.json
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\SampleApp.runtimeconfig.dev.json
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\SampleApp.dll
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\SampleApp.pdb
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\MongoLayer.dll
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\bin\Debug\netcoreapp1.1\MongoLayer.pdb
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\obj\Debug\netcoreapp1.1\SampleApp.csprojResolveAssemblyReference.cache
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\obj\Debug\netcoreapp1.1\SampleApp.AssemblyInfo.cs
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\obj\Debug\netcoreapp1.1\SampleApp.dll
+D:\Projeler\MongoRepository\MongoRepository\SampleApp\obj\Debug\netcoreapp1.1\SampleApp.pdb
